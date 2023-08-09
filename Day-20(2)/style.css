@@ -1,0 +1,60 @@
+.form-outline
+{
+   /* display: flex; */
+    width: 20%;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 100px;
+    /* background-color:#557A46 ; */
+   
+}
+.btn {
+    display: block;
+    margin-top: 20px;
+}
+#title{
+    margin: 20px ;
+    padding: 10px ;
+    text-align: center;
+    font-size: bold;
+    color: #8C3333;
+}
+#description{
+    margin: 20px ;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    color: #6528F7;
+}
+#tamil1 {
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+   margin-top: 30px;
+   padding: 10px;
+   margin-left: 30px;
+   margin-right: 30px;
+   background-color: #FCAEAE;
+   text-align: center;
+   display: none;
+   
+}
+#english1
+{
+     margin-top: 30px;
+   padding: 10px;
+   margin-left: 30px;
+   margin-right: 30px;
+   background-color: #E9B384;
+   text-align: center;
+   display: none;
+}
+#result p{
+    margin-top: 70px;
+}
+input[type="radio"]
+{
+    margin-top: 20px;
+    padding: 10px;
+}
